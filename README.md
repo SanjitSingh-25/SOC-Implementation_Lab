@@ -60,18 +60,6 @@ Detection example:
 
 PowerShell is legitimate software, so the event is not automatically malicious. Context and correlation are required.
 
-## Evidence
-
-Add your screenshots to the `screenshots/` directory:
-
-1. `01-security-log.png`
-2. `02-event-4625.png`
-3. `03-event-4688.png`
-4. `04-audit-policy.png`
-5. `05-detection-rules.png`
-6. `06-investigation.png`
-
-Do not upload passwords, tokens, private keys, personal documents, or unnecessary personal information.
 
 ## Detection Rules
 
@@ -80,10 +68,6 @@ See [`detection-rules/rules.md`](detection-rules/rules.md).
 ## Incident Investigation
 
 See [`incident-investigation/investigation.md`](incident-investigation/investigation.md).
-
-## Report
-
-Place the completed Word/PDF report in the `report/` directory.
 
 ## Important Note
 
